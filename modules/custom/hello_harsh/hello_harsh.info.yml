@@ -1,0 +1,6 @@
+name: 'Hello Harsh'
+type: module
+description: 'A simple module to print Hello Harsh.'
+core_version_requirement: ^10
+package: Custom
+version: 1

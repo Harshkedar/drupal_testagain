@@ -1,0 +1,7 @@
+hello_harsh.hello:
+  path: '/hello-harsh'
+  defaults:
+    _controller: '\Drupal\hello_harsh\Controller\HelloHarshController::helloPage'
+    _title: 'Hello Harsh'
+  requirements:
+    _permission: 'access content'
