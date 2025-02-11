@@ -88,3 +88,10 @@ git branch
   218  git pull --rebase upstream dev
   <br>
   219  git push origin harsh-testing-branch
+
+
+ How to create new branch 
+ <br>
+ 220  git checkout -b new-branch-name
+ <br>
+ git push -u origin new-branch-name
