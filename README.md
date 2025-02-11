@@ -77,3 +77,10 @@ Learn about the [Drupal trademark and logo policy here][trademark].
 hello harsh 
 
 please create the drupal team2025
+
+git branch
+  215  git status
+  216  git add database.sql
+  217  git commit -m "adding db file to branches"
+  218  git pull --rebase upstream dev
+  219  git push origin harsh-testing-branch
