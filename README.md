@@ -80,7 +80,11 @@ please create the drupal team2025
 
 git branch
   215  git status
+  <br>
   216  git add database.sql
+  <br>
   217  git commit -m "adding db file to branches"
+  <br>
   218  git pull --rebase upstream dev
+  <br>
   219  git push origin harsh-testing-branch
