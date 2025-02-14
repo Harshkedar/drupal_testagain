@@ -5,3 +5,14 @@ hello_harsh.hello:
     _title: 'Hello Harsh'
   requirements:
     _permission: 'access content'
+
+
+// Routing file: hello_harsh.routing.yml
+
+hello_harsh.signup:
+  path: '/hello-harsh/signup'
+  defaults:
+    _form: '\Drupal\hello_harsh\Form\SignupForm'
+    _title: 'Sign Up'
+  requirements:
+    _permission: 'access content'
