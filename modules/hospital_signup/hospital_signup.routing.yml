@@ -1,0 +1,7 @@
+hospital_signup.form:
+  path: '/hospital-signup'
+  defaults:
+    _form: '\Drupal\hospital_signup\Form\HospitalSignupForm'
+    _title: 'Hospital Signup'
+  requirements:
+    _permission: 'access content'

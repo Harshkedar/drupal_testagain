@@ -1,0 +1,5 @@
+name: 'Hospital Signup'
+type: module
+description: 'Provides a signup form for hospital users.'
+core_version_requirement: ^10
+package: Custom
